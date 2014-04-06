@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Blitzrechnen
+Comment=Rechnungen zum üben
+Exec=wine.sh "/home/wine/Blitzrechnen" "c:/Program Files/Klett/Blitzrechnen/Blitzrechnen.exe"
+Terminal=false
+Type=Application
+Icon="/home/wine/Blitzrechnen/dosdevices/c:/Program Files/Klett/Blitzrechnen/Blitzrechnen.png"
+Categories=Application;Education;
