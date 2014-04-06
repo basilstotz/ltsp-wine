@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Blitzrechnen
-Comment=Rechnungen zum üben
-Exec=winery "/home/lehrmittel/Blitzrechnen" "c:/Program Files/Klett/Blitzrechnen/Blitzrechnen.exe"
-Terminal=false
-Type=Application
-Icon="/home/lehrmittel/Blitzrechnen/dosdevices/c:/Program Files/Klett/Blitzrechnen/Blitzrechnen.png"
-Categories=Application;Education;
